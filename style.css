@@ -80,7 +80,7 @@ nav ul li a:hover{
     height:90vh;
     background:
     linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
-    url('img/colage\ cong.jpg');
+    url('colage cong.jpg');
     background-size:cover;
     background-position:center;
     display:flex;
